@@ -27,39 +27,6 @@ public class ReadActivity extends AppCompatActivity {
         tvNIM.setText(sNIM);
         tvIPK.setText(sIPK);
 
-//        String sName = getIntent().getExtras().getString("name");
-//        String sNim = getIntent().getExtras().getString("nim");
-//        String sIpk = getIntent().getExtras().getString("ipk");
-
-//        String sValue;
-//
-//        double ipk = Double.parseDouble(sIpk);
-//        if(ipk > 3.66 && ipk <= 4.00){
-//            sValue = "A";
-//        }else if(ipk > 3.33 && ipk <= 3.66){
-//            sValue = "A-";
-//        }else if(ipk > 3.00 && ipk <= 3.33){
-//            sValue = "B+";
-//        }else if(ipk > 2.66 && ipk <= 3.00){
-//            sValue = "B";
-//        }else if(ipk > 2.33 && ipk <= 2.66){
-//            sValue = "B-";
-//        }else if(ipk > 2.00 && ipk <= 2.33){
-//            sValue = "C+";
-//        }else if(ipk > 1.66 && ipk <= 2.00){
-//            sValue = "C";
-//        }else if(ipk > 1.33 && ipk <= 1.66){
-//            sValue = "C-";
-//        }else if(ipk > 1.00 && ipk <= 1.33){
-//            sValue = "D+";
-//        }else{
-//            sValue = "D";
-//        }
-
-//        tvName.setText(sName);
-//        tvNIM.setText(sNim);
-//        tvIPK.setText(sValue);
-
     }
 
 }
